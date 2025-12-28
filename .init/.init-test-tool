@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-reminder-call-system-66337-5062/backend_django"
+}
